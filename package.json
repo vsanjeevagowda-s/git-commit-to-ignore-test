@@ -1,0 +1,22 @@
+{
+  "name": "git-commit-to-ignore-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsanjeevagowda-s/git-commit-to-ignore-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsanjeevagowda-s/git-commit-to-ignore-test/issues"
+  },
+  "homepage": "https://github.com/vsanjeevagowda-s/git-commit-to-ignore-test#readme",
+  "dependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
